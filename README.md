@@ -11,7 +11,7 @@ O sistema opera via **Console (Terminal)** e é ideal para o gerenciamento rápi
 
 ---
 
-## 🚀 Requisitos de Ambiente
+## Requisitos de Ambiente
 
 Para rodar este projeto localmente, você precisa ter:
 
@@ -21,7 +21,7 @@ Para rodar este projeto localmente, você precisa ter:
 
 ---
 
-## 🛠️ Configuração do Banco de Dados
+## Configuração do Banco de Dados
 
 O sistema exige que o *schema* e a tabela de produtos existam antes da execução.
 
