@@ -5,9 +5,9 @@
 ![Maven](https://img.shields.io/badge/Maven-3.6.3-orange)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-blue)
 
-Este é um sistema simples de gerenciamento de estoque (CRUD com alerta) para o armazém "Diamante", desenvolvido em **Java** utilizando **POO** e **JDBC** para persistência de dados no MySQL.
+Este é um sistema simples de gerenciamento de estoque para o armazém "Diamante", desenvolvido em **Java** utilizando **POO** e **JDBC** para persistência de dados no MySQL.
 
-O sistema opera via **Console (Terminal)** e é ideal para o gerenciamento rápido de entradas, saídas, consultas e alertas de estoque mínimo.
+O sistema opera via **Terminal** e é ideal para o gerenciamento rápido de entradas, saídas, consultas e alertas de estoque mínimo.
 
 ---
 
